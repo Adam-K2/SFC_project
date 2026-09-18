@@ -1,0 +1,7 @@
+numpy
+torch
+datasets
+kagglehub
+scikit-learn
+matplotlib
+seaborn

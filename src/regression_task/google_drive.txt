@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1oS3J6RYhR1wp-WaHuTHB30YME8bIBgDp?usp=sharing
+
+Just copy paste the *.pt files from the google drive the models into the models_X folder.
